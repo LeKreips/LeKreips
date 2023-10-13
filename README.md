@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeKreips
-- I'm a new beginner in codding, trying to learn so i can get a new job.
+- Actuellement en pleine reorientation professionnelle je tente d'apprendre le codage par moi meme. je regrouperai ici mes differents projets pour afficher ma progression dans mon aventure. LA BIZ
 
 <!---
 LeKreips/LeKreips is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
